@@ -9,10 +9,10 @@
 
 
 <main>
-		<picture>
+		<!-- <picture>
 			<source srcset={banner} type="image/webp" />
 			<img width="720" height="320" src={banner} alt="Welcome" />
-		</picture>
+		</picture> -->
 		<h1>COMING SOON!</h1>
 	</main>
 
